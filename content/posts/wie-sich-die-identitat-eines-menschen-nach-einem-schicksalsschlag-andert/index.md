@@ -6,8 +6,8 @@ pinned = false
 image = "89db7cc0-e5fb-41e3-afa8-2f6657244c3c.jpeg"
 description = ""
 +++
-{{<lead>}} „Darüber zu reden hilft“ - Die 20 jährige Maturandin Sarah Fiorenza hat erst kürzlich ihre letzte Chemotherapie beendet und spricht offen über ihren bösartigen Hirntumor und dessen Folgen. 
- {{<lead>}} 
+> {{<lead>}} „Darüber zu reden hilft“ - Die 20 jährige Maturandin Sarah Fiorenza hat erst kürzlich ihre letzte Chemotherapie beendet und spricht offen über ihren bösartigen Hirntumor und dessen Folgen. 
+>  {{<lead>}} 
 
 **Wie geht es dir momentan?** 
 
