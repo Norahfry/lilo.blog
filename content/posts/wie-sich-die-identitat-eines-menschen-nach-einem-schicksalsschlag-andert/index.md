@@ -6,15 +6,27 @@ pinned = false
 image = "89db7cc0-e5fb-41e3-afa8-2f6657244c3c.jpeg"
 description = ""
 +++
-![Sarah zeigt sich selbst positiv im Krankenhaus](89db7cc0-e5fb-41e3-afa8-2f6657244c3c.jpeg "> Die 20 jährige Maturandin Sarah Fiorenza hat erst kürzlich ihre letzte Chemotherapie beendet und spricht offen über ihren bösartigen Hirntumor und dessen Folgen.  >")
+![Sarah zeigt sich selbst positiv im Krankenhaus](89db7cc0-e5fb-41e3-afa8-2f6657244c3c.jpeg)
 
 
+
+> Die 20 jährige Maturandin Sarah Fiorenza hat erst kürzlich ihre letzte Chemotherapie beendet und spricht offen über ihren bösartigen Hirntumor und dessen Folgen.
+>
+>
 
 
 
 **Wie geht es dir momentan?** 
 
 Sarah: Also mir geht es momentan sehr gut. Im Jahr 2021 wurde bei mir nach einem epileptischen Anfall ein Hirntumor gefunden, später wurde herausgefunden, dass es sich um Krebs handelt. Jetzt habe ich bald meine letzte Chemophase hinter mir. 
+
+
+
+> Am 31. Oktober hat alles begonnen und ich kann mich noch ganz gut daran erinnern, dass ich für den Test am kommenden Montag gelernt habe. Angefangen hat alles, als ich mich etwas komisch fühlte. Zur gleichen Zeit kam mein Freund Ilias zu mir ins Wohnzimmer und ab diesem Punkt hat alles gestartet. Ich habe wie auf Knopfdruck angefangen zu weinen Und habe plötzlich ein Wort nicht verstanden. Daraufhin wollte er bereits den Notruf wählen, was ich aber nicht für nötig hielt. So sind wir dann in Hünibach, seinem Wohnort, zur Bushaltestelle gelaufen bei welcher ich das Bewusstsein verloren habe. Der Notfallwagen brachte mich ins Inselspital Bern, in welchem ich dann aufgewacht bin. 
+>
+>
+
+
 
 **Was hat sich in deinem Leben seither verändert, was hat dir Mühe gemacht?**
 
@@ -32,4 +44,6 @@ Sarah: Ja, ich habe gemerkt, wie wichtig ich für Personen bin. Dies habe ich zu
 
 Sarah: Ich hatte schon immer den Wunsch Medizin zu studieren, und dieser wurde mit meiner Diagnose nur noch verstärkt. Ich bin so glücklich, dass es solche Menschen gibt, die einen heilen und  dafür sorgen, dass man gesund wird.
 
-Sarahs Identität und ihre Lebenseinstellung hat sich mit ihrer Krankheit sehr verändert. Sie hat gemerkt Dinge mehr zu schätzen und dass nicht alles im Leben selbstverständlich ist.
+
+
+> Sarahs Identität und ihre Lebenseinstellung hat sich mit ihrer Krankheit sehr verändert. Sie hat gemerkt Dinge mehr zu schätzen und dass nicht alles im Leben selbstverständlich ist.
