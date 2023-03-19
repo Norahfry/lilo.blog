@@ -46,4 +46,6 @@ Sarah: Ich hatte schon immer den Wunsch Medizin zu studieren, und dieser wurde m
 
 
 
-> Sarahs Identität und ihre Lebenseinstellung hat sich mit ihrer Krankheit sehr verändert. Sie hat gemerkt Dinge mehr zu schätzen und dass nicht alles im Leben selbstverständlich ist.
+>
+>
+> ![Gutgeheissen von Sarah Fiorenza](6e152302-1301-40cd-95e0-12ca050ee9a6.jpeg)
