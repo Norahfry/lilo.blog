@@ -6,12 +6,9 @@ pinned = false
 image = "89db7cc0-e5fb-41e3-afa8-2f6657244c3c.jpeg"
 description = ""
 +++
-![Sarah zeigt sich selbst positiv im Krankenhaus](89db7cc0-e5fb-41e3-afa8-2f6657244c3c.jpeg)
+![Sarah zeigt sich selbst positiv im Krankenhaus](89db7cc0-e5fb-41e3-afa8-2f6657244c3c.jpeg "> Die 20 jährige Maturandin Sarah Fiorenza hat erst kürzlich ihre letzte Chemotherapie beendet und spricht offen über ihren bösartigen Hirntumor und dessen Folgen.  >")
 
 
-
-> Die 20 jährige Maturandin Sarah Fiorenza hat erst kürzlich ihre letzte Chemotherapie beendet und spricht offen über ihren bösartigen Hirntumor und dessen Folgen. 
->
 
 
 
@@ -34,3 +31,5 @@ Sarah: Ja, ich habe gemerkt, wie wichtig ich für Personen bin. Dies habe ich zu
 **Hast du Pläne für deine Zukunft?**
 
 Sarah: Ich hatte schon immer den Wunsch Medizin zu studieren, und dieser wurde mit meiner Diagnose nur noch verstärkt. Ich bin so glücklich, dass es solche Menschen gibt, die einen heilen und  dafür sorgen, dass man gesund wird.
+
+Sarahs Identität und ihre Lebenseinstellung hat sich mit ihrer Krankheit sehr verändert. Sie hat gemerkt Dinge mehr zu schätzen und dass nicht alles im Leben selbstverständlich ist.
