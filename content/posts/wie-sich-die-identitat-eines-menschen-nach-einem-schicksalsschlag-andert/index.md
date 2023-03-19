@@ -1,5 +1,5 @@
 +++
-title = "Wie sich die Identität eines Menschen nach einem Schicksalsschlag ändert"
+title = "„Darüber zu reden hilft“ - Wie sich die Identität eines Menschen nach einem Schicksalsschlag ändert"
 date = "2023-03-19"
 draft = false
 pinned = false
@@ -10,7 +10,7 @@ description = ""
 
 
 
-> „Darüber zu reden hilft“ - Die 20 jährige Maturandin Sarah Fiorenza hat erst kürzlich ihre letzte Chemotherapie beendet und spricht offen über ihren bösartigen Hirntumor und dessen Folgen. 
+> Die 20 jährige Maturandin Sarah Fiorenza hat erst kürzlich ihre letzte Chemotherapie beendet und spricht offen über ihren bösartigen Hirntumor und dessen Folgen. 
 >
 
 
