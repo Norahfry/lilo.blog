@@ -4,8 +4,11 @@ date = "2023-03-19"
 draft = false
 pinned = false
 image = "89db7cc0-e5fb-41e3-afa8-2f6657244c3c.jpeg"
-description = "{{<lead>}} „Darüber zu reden hilft“ - Die 20 jährige Maturandin Sarah Fiorenza hat erst kürzlich ihre letzte Chemotherapie beendet und spricht offen über ihren bösartigen Hirntumor und dessen Folgen. \n {{<lead>}} "
+description = ""
 +++
+{{<lead>}} „Darüber zu reden hilft“ - Die 20 jährige Maturandin Sarah Fiorenza hat erst kürzlich ihre letzte Chemotherapie beendet und spricht offen über ihren bösartigen Hirntumor und dessen Folgen. 
+ {{<lead>}} 
+
 **Wie geht es dir momentan?** 
 
 Sarah: Also mir geht es momentan sehr gut. Im Jahr 2021 wurde bei mir nach einem epileptischen Anfall ein Hirntumor gefunden, später wurde herausgefunden, dass es sich um Krebs handelt. Jetzt habe ich bald meine letzte Chemophase hinter mir. 
