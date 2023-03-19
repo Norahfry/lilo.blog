@@ -44,7 +44,7 @@ Sarah: Ja, ich habe gemerkt, wie wichtig ich für Personen bin. Dies habe ich zu
 
 Sarah: Ich hatte schon immer den Wunsch Medizin zu studieren, und dieser wurde mit meiner Diagnose nur noch verstärkt. Ich bin so glücklich, dass es solche Menschen gibt, die einen heilen und  dafür sorgen, dass man gesund wird.
 
-
+Sarahs Identität und ihre Lebenseinstellung hat sich im Zeitpunkt von Ihrer Krankheit sehr verändert. Sie hat gemerkt dass nicht alles selbstverständlich ist im Leben. 
 
 >
 >
