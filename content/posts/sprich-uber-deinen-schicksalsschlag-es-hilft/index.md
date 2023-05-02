@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "img_1423.jpeg"
 +++
-**Sprich über dein Schicksal, es hilft** 
+ 
 
 ![Sarah am Tag nach ihrer ersten Operation](img_1420.jpeg)
 
