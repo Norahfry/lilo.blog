@@ -12,7 +12,7 @@ description = "Eine Reportage von Norah Fry"
 
 {{<lead>}}
 
-Ein bösartiger Hirntumor war die schwere Krankheit, mit welcher Sarah zu kämpfen hatte. „Darüber reden hilft“. Es befördert einen von der schlimmen Realität wieder auf die richtige Bahn. Ein Schlag ins Gesicht wie diese schreckliche Diagnose, verändert nicht nur die Lebensweise, sondern auch die Identität.
+**Ein bösartiger Hirntumor war die schwere Krankheit, mit welcher Sarah zu kämpfen hatte. „Darüber reden hilft“. Es befördert einen von der schlimmen Realität wieder auf die richtige Bahn. Ein Schlag ins Gesicht wie diese schreckliche Diagnose, verändert nicht nur die Lebensweise, sondern auch die Identität.**
 
 {{</lead>}}
 
