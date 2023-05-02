@@ -24,16 +24,6 @@ Stille, welche die Zeit der Ungewissheit endlos erscheinen lässt. Diese ist nic
 
 
 
-
-
-
-
-
-
-
-
-
-
 **Ein einschneidendes Erlebnis**
 
 Der Prozess der Verarbeitung und Akzeptanz sind entscheidend. Er ermöglicht den Überblick auf den steinigen Weg der hinter, sowie dem beschwerlichen der noch vor einem liegt. Die Offenheit, die Sarah während des Interviews ausstrahlt, geleitet eindrucksvoll  durch das ernste Thema. Manche verschweigen die unschönen Dinge und Erinnerungen in ihrem Innern, um sich selbst und anderen nicht die Wahrheit preiszugeben. Die Realität zu verdrängen, verhindert, wie eine grosse Mauer, welche mit vielen Hindernissen und Ungewissheit versehen ist, mit der Krankheit voranzukommen. Unter der glatten, geschmeidigen Oberfläche wirkt dumpf und verschwommen die Angst. 
