@@ -4,6 +4,7 @@ date = "2023-05-02"
 draft = false
 pinned = false
 image = "img_1423.jpeg"
+description = "Eine Reportage von Norah Fry"
 +++
  
 
