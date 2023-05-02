@@ -19,6 +19,8 @@ Stille, welche die Zeit der Ungewissheit endlos erscheinen lässt. Diese ist nic
 
 Ich sehe die junge, aufgestellte Frau mit den glänzenden Augen vor mir, wie sie sich von einem dramatischen epileptischen Anfall bis schlussendlich zur befreienden letzten Chemotherapie durchschlägt. Trotz der schwierigen letzten Jahre  strahlt mir ein Lächeln entgegen. Es erzählt viel über den dazugehörigen Menschen und zeigt sich mittlerweile mit deutlicher Gewissheit. So war es nicht immer. 
 
+
+
 **Ein einschneidendes Erlebnis**
 
 Der Prozess der Verarbeitung und Akzeptanz sind entscheidend. Er ermöglicht den Überblick auf den steinigen Weg der hinter, sowie dem beschwerlichen der noch vor einem liegt. Die Offenheit, die Sarah während des Interviews ausstrahlt, geleitet eindrucksvoll  durch das ernste Thema. Manche verschweigen die unschönen Dinge und Erinnerungen in ihrem Innern, um sich selbst und anderen nicht die Wahrheit preiszugeben. Die Realität zu verdrängen, verhindert, wie eine grosse Mauer, welche mit vielen Hindernissen und Ungewissheit versehen ist, mit der Krankheit voranzukommen. Unter der glatten, geschmeidigen Oberfläche wirkt dumpf und verschwommen die Angst. 
@@ -27,7 +29,7 @@ Der Prozess der Verarbeitung und Akzeptanz sind entscheidend. Er ermöglicht den
 
 In der Schweiz sind im 2022 670 Menschen an einem bösartigen Hirntumor erkrankt. Hirntumore können in prinzipiell jedem Alter vorkommen. Im 2022 sind 530 Personen daran gestorben.
 
-{{</box>}} 
+{{</box>}} 
 
 **Wie sich die Pfade wieder zusammenführen**
 
