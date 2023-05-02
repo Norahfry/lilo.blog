@@ -7,11 +7,7 @@ image = "img_1423.jpeg"
 +++
 **Sprich über dein Schicksal, es hilft** 
 
-
-
 ![Sarah am Tag nach ihrer ersten Operation](img_1420.jpeg)
-
-
 
 {{<lead>}}
 
@@ -19,15 +15,9 @@ Ein bösartiger Hirntumor war die schwere Krankheit, mit welcher Sarah zu kämpf
 
 {{</lead>}}
 
- 
-
- 
-
 Stille, welche die Zeit der Ungewissheit endlos erscheinen lässt. Diese ist nicht für immer. Der Schreck platzt wie ein lauter Knall in die Gedankenleere und hinterlässt eine Narbe, ein Abbild  dieser Geschichte, die zu jeder Zeit ersichtlich ist. Ein solch schwerer Schicksalsschlag prägt und verändert das Leben augenblicklich. 
 
 Ich sehe die junge, aufgestellte Frau mit den glänzenden Augen vor mir, wie sie sich von einem dramatischen epileptischen Anfall bis schlussendlich zur befreienden letzten Chemotherapie durchschlägt. Trotz der schwierigen letzten Jahre  strahlt mir ein Lächeln entgegen. Es erzählt viel über den dazugehörigen Menschen und zeigt sich mittlerweile mit deutlicher Gewissheit. So war es nicht immer. 
-
- 
 
 **Ein einschneidendes Erlebnis**
 
@@ -45,10 +35,6 @@ Doch nicht bei Sarah, so wie sie im Interview ganz klar und aufgestellt ihre Ges
 
 Es ist keine leichte Reise, welche die von der Diagnose betroffen Personen bewältigen müssen. Der Alltag wird seziert und es ergibt sich ein völlig neues Bild vom Leben. Wie Sarah eindrücklich erzählt, bilden ihre Familie sowie ihre Freunde die sichere Unterlage ihres Pfades. *„Wie meine Familie und meine Freunde mich unterstützt haben ist nicht selbstverständlich“*. Ihr Blick schweift kurz aus dem Fenster, dort  beobachtet sie mit nachdenklichem Gesicht einen kleinen Vogel. Das Schicksal von Sarah verändert ihre Identität. Nach dem Blitz der Epilepsie erscheint nichts ist mehr sicher. Was geschieht morgen, was ergibt sich erst in ferner Zukunft? 
 
-
-
 > *„Ich habe gelernt dankbar zu sein, für alles, was man hat und wie es einem geht“.*
-
- 
 
 Ich kenne Sarah schon länger und erlebe sie bereits vor dieser Diagnose als optimistische Person. Trotz Rissen in ihrem Leben, ist keine grundlegende Veränderung ihrer Persönlickeit zu bemerken. Ihre  positive Identität hat sich sogar verfestigt.  Am Schluss des Interviews, steht der glücklich und sichere Gesichtsausdruck, ein Lächeln immer noch in ihrem Gesicht. Sie hat die Übereinstimmung mit ihrem Leben gefunden.
