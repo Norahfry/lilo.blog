@@ -1,6 +1,6 @@
 +++
 title = "Sprich über deinen Schicksalsschlag, es hilft"
-date = "2023-05-02"
+date = "2023-05-04"
 draft = false
 pinned = false
 image = "img_1423.jpeg"
