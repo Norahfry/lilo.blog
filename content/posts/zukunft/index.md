@@ -4,6 +4,7 @@ date = "2023-05-25"
 draft = false
 pinned = false
 image = "img_1444.jpeg"
+description = "Ein Poetry Slam von Norah Fry"
 +++
 Wir
 
