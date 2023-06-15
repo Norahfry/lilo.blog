@@ -6,7 +6,7 @@ pinned = false
 image = "img_1423.jpeg"
 description = "Eine Reportage von Norah Fry"
 +++
-![Sarah am Tag nach ihrer ersten Operation](img_1420.jpeg)
+![Sarah am Tag nach ihrer ersten Operation](img_1476.jpeg)
 
 {{<lead>}}
 
